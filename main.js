@@ -183,6 +183,7 @@ function getNetPay(driverID, actualHours, requiredHours, rateFile) {
     return basePay - salaryDeduction;
 }
 
+// added my own test cases to check each function separately.
 
 
 module.exports = {
